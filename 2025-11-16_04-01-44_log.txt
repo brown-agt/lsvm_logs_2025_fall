@@ -1,0 +1,108 @@
+
+Auction 1: TA - MinBidder (National) VS TA - Truthful VS mulberry VS TA - Jumper VS TA - Confidence VS TA - RANDOM
+TA - MinBidder won Good G at Price 7.54, Good E at Price 6.00, Good M at Price 8.58.
+TA - MinBidder got a final utility of 0.11369744943121773
+TA - Truthful won Good D at Price 13.29, Good P at Price 13.75, Good C at Price 13.86.
+TA - Truthful got a final utility of 10.35609110650055
+mulberry won Good L at Price 9.70, Good J at Price 19.85, Good K at Price 13.39, Good R at Price 9.70, Good F at Price 9.70.
+mulberry got a final utility of 113.27346117512585
+TA - Jumper won Good B at Price 18.85, Good O at Price 15.82, Good I at Price 19.56.
+TA - Jumper got a final utility of 8.341579657579928
+TA - Confidence won Good A at Price 12.77, Good H at Price 19.85.
+TA - Confidence got a final utility of -4.897833455153744
+TA - RANDOM won Good N at Price 19.66, Good Q at Price 9.70.
+TA - RANDOM got a final utility of 2.7908774092527153
+
+Auction 1: TA - MinBidder (National) VS TA - RANDOM VS mulberry VS TA - Jumper VS TA - Confidence VS TA - SECRET
+TA - MinBidder won Good Q at Price 5.90, Good L at Price 4.10, Good R at Price 4.70.
+TA - MinBidder got a final utility of 2.828046074576161
+TA - RANDOM won Good O at Price 13.46.
+TA - RANDOM got a final utility of 6.315290232506813
+mulberry got a final utility of 0
+TA - Jumper got a final utility of 0
+TA - Confidence won Good P at Price 18.41, Good B at Price 32.32, Good E at Price 12.38, Good J at Price 19.75, Good F at Price 11.65, Good C at Price 17.11, Good I at Price 47.78, Good K at Price 10.95, Good D at Price 16.79.
+TA - Confidence got a final utility of 148.00792431065994
+TA - SECRET won Good N at Price 20.18, Good G at Price 18.79, Good M at Price 11.33, Good A at Price 10.24, Good H at Price 9.72.
+TA - SECRET got a final utility of 61.10897709334117
+
+Auction 1: secret_agent_man (National) VS TA - RANDOM VS TA - Truthful VS TA - Jumper VS TA - SECRET VS TA - MinBidder
+secret_agent_man won Good D at Price 16.30, Good P at Price 0.10, Good N at Price 10.30, Good B at Price 8.00, Good E at Price 8.95, Good J at Price 15.42, Good C at Price 9.63, Good I at Price 6.70, Good K at Price 17.21, Good H at Price 17.24, Good A at Price 11.50, Good R at Price 13.26, Good F at Price 13.78, Good Q at Price 7.56.
+secret_agent_man got a final utility of 209.9863378450897
+TA - RANDOM got a final utility of 0
+TA - Truthful won Good L at Price 15.20.
+TA - Truthful got a final utility of 1.2234217732085924
+TA - Jumper won Good O at Price 11.70, Good M at Price 11.70.
+TA - Jumper got a final utility of 8.02573770983517
+TA - SECRET got a final utility of 0
+TA - MinBidder won Good G at Price 11.70.
+TA - MinBidder got a final utility of 2.3031157169148884
+
+Auction 1: secret_agent_man (National) VS TA - RANDOM VS TA - Truthful VS mulberry VS TA - Confidence VS TA - Jumper
+secret_agent_man won Good O at Price 18.10, Good P at Price 9.42, Good L at Price 62.27, Good N at Price 17.22, Good B at Price 14.66, Good M at Price 11.10, Good C at Price 18.33, Good K at Price 12.87, Good A at Price 14.61, Good R at Price 15.94, Good F at Price 18.50, Good Q at Price 18.83.
+secret_agent_man got a final utility of -100.70613536694492
+TA - RANDOM got a final utility of 0
+TA - Truthful got a final utility of 0
+mulberry got a final utility of 0
+TA - Confidence won Good E at Price 94.21, Good J at Price 101.68, Good I at Price 100.31, Good H at Price 62.64, Good D at Price 99.81.
+TA - Confidence got a final utility of -321.4206331448245
+TA - Jumper won Good G at Price 11.70.
+TA - Jumper got a final utility of 5.703300220904065
+
+Auction 1: secret_agent_man (National) VS TA - MinBidder VS TA - Truthful VS TA - SECRET VS TA - Confidence VS mulberry
+secret_agent_man won Good O at Price 17.39, Good P at Price 15.35, Good L at Price 0.10, Good B at Price 33.71, Good E at Price 15.28, Good J at Price 17.38, Good F at Price 0.10, Good I at Price 14.39, Good K at Price 0.20, Good A at Price 17.38, Good H at Price 12.94, Good R at Price 0.10, Good D at Price 11.20, Good Q at Price 0.10.
+secret_agent_man got a final utility of 206.31428289717286
+TA - MinBidder won Good N at Price 5.70.
+TA - MinBidder got a final utility of 11.683772367313479
+TA - Truthful got a final utility of 0
+TA - SECRET got a final utility of 0
+TA - Confidence won Good G at Price 19.99, Good M at Price 17.30, Good C at Price 56.12.
+TA - Confidence got a final utility of -47.50018442253094
+mulberry got a final utility of 0
+
+Auction 1: TA - MinBidder (National) VS TA - RANDOM VS mulberry VS TA - Jumper VS TA - Confidence VS TA - Truthful
+TA - MinBidder got a final utility of 0
+TA - RANDOM won Good Q at Price 16.29, Good R at Price 15.69.
+TA - RANDOM got a final utility of 6.259234858272432
+mulberry won Good O at Price 8.90, Good N at Price 8.90, Good M at Price 8.90, Good G at Price 8.90, Good A at Price 3.70, Good H at Price 8.90.
+mulberry got a final utility of 122.09596772945403
+TA - Jumper won Good P at Price 13.11, Good B at Price 18.75, Good J at Price 12.30, Good C at Price 11.83, Good K at Price 16.36, Good D at Price 8.80.
+TA - Jumper got a final utility of 115.0999945994092
+TA - Confidence won Good F at Price 18.80, Good E at Price 9.06, Good L at Price 11.86, Good I at Price 17.73.
+TA - Confidence got a final utility of -2.122550721434166
+TA - Truthful got a final utility of 0
+
+Auction 1: secret_agent_man (National) VS TA - RANDOM VS TA - Truthful VS mulberry VS TA - SECRET VS TA - Confidence
+secret_agent_man won Good O at Price 16.11, Good P at Price 18.31, Good L at Price 17.67, Good N at Price 11.70, Good B at Price 10.62, Good E at Price 18.34, Good K at Price 18.55, Good A at Price 16.97, Good R at Price 13.46, Good F at Price 6.83, Good Q at Price 19.63.
+secret_agent_man got a final utility of -42.11068129470047
+TA - RANDOM got a final utility of 0
+TA - Truthful won Good M at Price 11.70, Good G at Price 11.70.
+TA - Truthful got a final utility of 12.997015498640138
+mulberry got a final utility of 0
+TA - SECRET got a final utility of 0
+TA - Confidence won Good J at Price 19.16, Good I at Price 75.34, Good C at Price 19.58, Good H at Price 55.51, Good D at Price 11.70.
+TA - Confidence got a final utility of -25.253358704851536
+
+Auction 1: TA - MinBidder (National) VS TA - RANDOM VS TA - Truthful VS TA - SECRET VS TA - Confidence VS secret_agent_man
+TA - MinBidder won Good B at Price 8.00, Good M at Price 8.30, Good G at Price 4.90, Good C at Price 8.30, Good A at Price 6.20.
+TA - MinBidder got a final utility of 2.1021692741588254
+TA - RANDOM won Good Q at Price 16.81.
+TA - RANDOM got a final utility of 1.3611755117683124
+TA - Truthful won Good N at Price 15.61.
+TA - Truthful got a final utility of 1.2295536761083774
+TA - SECRET won Good O at Price 9.96, Good P at Price 23.13, Good J at Price 18.25, Good I at Price 16.14, Good H at Price 8.30.
+TA - SECRET got a final utility of 55.34007562594303
+TA - Confidence won Good K at Price 17.42.
+TA - Confidence got a final utility of 1.359900450955692
+secret_agent_man won Good L at Price 37.12, Good E at Price 26.70, Good F at Price 27.68, Good R at Price 20.83, Good D at Price 26.13.
+secret_agent_man got a final utility of 31.947591382096817
+Extended Results: 
+            Agent 1         Agent 2  ...   A5 Score    A6 Score
+0  TA - Confidence     TA - Jumper  ...  61.108977    0.000000
+1  TA - Confidence     TA - Jumper  ...   5.178046  117.684714
+2  TA - Confidence     TA - Jumper  ...   0.000000 -100.706135
+3  TA - Confidence  TA - MinBidder  ...   1.229554   31.947591
+4  TA - Confidence  TA - MinBidder  ...   0.000000  206.314283
+5  TA - Confidence     TA - RANDOM  ...   0.000000  -42.110681
+6      TA - Jumper  TA - MinBidder  ...   1.223422  209.986338
+
+[7 rows x 12 columns]
