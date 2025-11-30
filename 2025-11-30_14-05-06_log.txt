@@ -1,0 +1,131 @@
+
+Auction 1: keyreg (National) VS patrick VS TA - Truthful VS patrick(1) VS TA - RANDOM VS TA - MinBidder
+keyreg got a final utility of 0
+patrick won Good J at Price 15.20, Good Q at Price 17.80, Good C at Price 10.60.
+patrick got a final utility of 4.821485881954047
+TA - Truthful won Good N at Price 9.30, Good H at Price 17.80, Good B at Price 10.70, Good O at Price 12.63.
+TA - Truthful got a final utility of 43.371075951009
+patrick(1) won Good M at Price 17.80, Good I at Price 17.80, Good G at Price 23.39.
+patrick(1) got a final utility of -32.34388875669263
+TA - RANDOM won Good A at Price 13.80.
+TA - RANDOM got a final utility of 1.0908712186672869
+TA - MinBidder won Good D at Price 13.20, Good L at Price 17.80, Good E at Price 10.30, Good K at Price 10.70, Good R at Price 9.40, Good F at Price 5.80.
+TA - MinBidder got a final utility of 99.35153857681405
+
+Auction 1: TA - Jumper (National) VS patrick(1) VS TA - SomewhatTruthful VS TA - Hot'n'Cold (Tier 2) VS TA - RANDOM VS TA - SECRET
+TA - Jumper won Good F at Price 6.20.
+TA - Jumper got a final utility of 1.5756285892753148
+patrick(1) won Good M at Price 9.97, Good I at Price 20.81.
+patrick(1) got a final utility of -8.033927552718957
+TA - SomewhatTruthful won Good D at Price 15.54, Good B at Price 7.40, Good C at Price 8.68.
+TA - SomewhatTruthful got a final utility of 14.319529520322853
+TA - Hot'n'Cold (Tier 2) won Good J at Price 21.70, Good L at Price 12.95, Good P at Price 14.74, Good Q at Price 19.97, Good E at Price 18.73, Good K at Price 18.68, Good R at Price 6.28, Good O at Price 19.73.
+TA - Hot'n'Cold (Tier 2) got a final utility of 60.033246148100716
+TA - RANDOM won Good G at Price 6.20, Good H at Price 13.75, Good A at Price 7.37.
+TA - RANDOM got a final utility of 33.70116523376385
+TA - SECRET won Good N at Price 6.51, Good O at Price 19.73, Good R at Price 6.28.
+TA - SECRET got a final utility of 4.9886498438387505
+
+Auction 1: TA - Confidence (National) VS keyreg VS patrick VS mulberry VS TA - MinBidder VS TA - Truthful
+TA - Confidence won Good J at Price 8.81, Good P at Price 15.45, Good L at Price 17.63, Good R at Price 14.80, Good Q at Price 8.41, Good N at Price 18.01, Good B at Price 17.76, Good E at Price 16.37, Good K at Price 12.86, Good G at Price 17.61, Good F at Price 16.84.
+TA - Confidence got a final utility of -67.55520506875195
+keyreg won Good O at Price 9.83.
+keyreg got a final utility of 7.272337689984859
+patrick won Good M at Price 17.25, Good H at Price 10.24, Good A at Price 9.88.
+patrick got a final utility of 5.566147045703119
+mulberry got a final utility of 0
+TA - MinBidder won Good D at Price 12.09, Good I at Price 12.64, Good C at Price 7.20.
+TA - MinBidder got a final utility of 15.741280555935667
+TA - Truthful got a final utility of 0
+
+Auction 1: veriTNT (National) VS Mistral7B-Finetune VS TA - Hot'n'Cold (Tier 2) VS ?????? VS TA - RANDOM VS TA - Confidence
+veriTNT got a final utility of 0
+Mistral7B-Finetune won Good M at Price 7.47, Good I at Price 16.57, Good N at Price 5.01, Good B at Price 14.68, Good G at Price 18.85, Good A at Price 14.28.
+Mistral7B-Finetune got a final utility of 34.10912331543848
+TA - Hot'n'Cold (Tier 2) won Good D at Price 33.55, Good L at Price 32.80, Good J at Price 30.18, Good C at Price 18.47, Good Q at Price 28.96, Good E at Price 31.31, Good K at Price 25.92, Good F at Price 37.47.
+TA - Hot'n'Cold (Tier 2) got a final utility of -29.557956127893448
+?????? won Good L at Price 32.80, Good Q at Price 28.96, Good E at Price 31.31, Good K at Price 25.92, Good R at Price 28.28.
+?????? got a final utility of -5.261338626458468
+TA - RANDOM won Good P at Price 17.64, Good H at Price 13.61, Good O at Price 17.27, Good C at Price 18.47.
+TA - RANDOM got a final utility of 9.38829023141038
+TA - Confidence got a final utility of 0
+
+Auction 1: TA - Confidence (National) VS veriTNT VS TA - Truthful VS TA - SECRET VS ?????? VS TA - RANDOM
+TA - Confidence won Good J at Price 19.59, Good L at Price 13.87, Good R at Price 8.84, Good Q at Price 17.93, Good E at Price 14.77, Good G at Price 5.80, Good A at Price 5.20.
+TA - Confidence got a final utility of -41.63925062366482
+veriTNT won Good D at Price 11.68, Good F at Price 13.78, Good K at Price 8.98.
+veriTNT got a final utility of -1.944923873793087
+TA - Truthful got a final utility of 0
+TA - SECRET got a final utility of 0
+?????? won Good P at Price 22.90, Good C at Price 23.63, Good M at Price 19.86, Good I at Price 21.12, Good N at Price 17.41, Good H at Price 31.59, Good O at Price 19.81.
+?????? got a final utility of 45.823066805487855
+TA - RANDOM won Good B at Price 8.60.
+TA - RANDOM got a final utility of 0.6969738219811994
+
+Auction 1: keyreg (National) VS patrick VS TA - MinBidder VS TA - Hot'n'Cold (Tier 2) VS TA - RANDOM VS patrick(1)
+keyreg won Good N at Price 7.80.
+keyreg got a final utility of 0.3982890836333137
+patrick won Good A at Price 0.00.
+patrick got a final utility of 0.0
+TA - MinBidder won Good H at Price 9.50, Good O at Price 18.70.
+TA - MinBidder got a final utility of 2.184943332334967
+TA - Hot'n'Cold (Tier 2) won Good L at Price 33.00, Good Q at Price 12.60, Good R at Price 32.90.
+TA - Hot'n'Cold (Tier 2) got a final utility of -20.860841454490377
+TA - RANDOM won Good M at Price 17.00, Good B at Price 0.00, Good C at Price 11.00.
+TA - RANDOM got a final utility of 3.4612166460011586
+patrick(1) won Good D at Price 33.00, Good J at Price 38.57, Good P at Price 33.00, Good I at Price 33.00, Good E at Price 33.00, Good K at Price 33.00, Good F at Price 40.19.
+patrick(1) got a final utility of -94.69731757202914
+
+Auction 1: keyreg (National) VS Mistral7B-Finetune VS TA - SECRET VS TA - MinBidder VS ?????? VS TA - Jumper
+keyreg got a final utility of 0
+Mistral7B-Finetune won Good Q at Price 10.24, Good R at Price 11.93.
+Mistral7B-Finetune got a final utility of 4.379124885412381
+TA - SECRET won Good D at Price 12.86, Good L at Price 13.69, Good E at Price 29.01, Good K at Price 16.26, Good F at Price 25.53.
+TA - SECRET got a final utility of 16.640492696748126
+TA - MinBidder won Good P at Price 11.40, Good J at Price 18.24.
+TA - MinBidder got a final utility of 10.414574948796393
+?????? won Good M at Price 18.92, Good I at Price 27.71, Good N at Price 17.00, Good B at Price 19.23, Good H at Price 15.45, Good A at Price 18.61.
+?????? got a final utility of 70.50255471714185
+TA - Jumper won Good G at Price 8.15, Good O at Price 14.31, Good C at Price 4.75.
+TA - Jumper got a final utility of 8.094120394353002
+
+Auction 1: Mistral7B-Finetune (National) VS mulberry VS patrick(1) VS TA - SomewhatTruthful VS TA - Hot'n'Cold (Tier 2) VS ??????
+Mistral7B-Finetune won Good M at Price 1.50, Good O at Price 3.20.
+Mistral7B-Finetune got a final utility of 4.85665592757847
+mulberry won Good H at Price 16.76.
+mulberry got a final utility of 1.3365067744461
+patrick(1) won Good D at Price 64.91, Good J at Price 52.62, Good C at Price 67.97, Good I at Price 56.99, Good B at Price 67.12, Good E at Price 54.42, Good A at Price 68.88.
+patrick(1) got a final utility of -219.834035061139
+TA - SomewhatTruthful won Good N at Price 20.93, Good G at Price 13.63.
+TA - SomewhatTruthful got a final utility of -3.4863071232191842
+TA - Hot'n'Cold (Tier 2) won Good P at Price 44.23, Good L at Price 46.87, Good Q at Price 32.84, Good R at Price 44.46, Good F at Price 38.80.
+TA - Hot'n'Cold (Tier 2) got a final utility of -35.80324465924343
+?????? won Good L at Price 46.87, Good Q at Price 32.84, Good K at Price 57.97.
+?????? got a final utility of -81.06809070648735
+
+Auction 1: TA - Confidence (National) VS TA - Jumper VS patrick VS TA - MinBidder VS ?????? VS TA - Hot'n'Cold (Tier 2)
+TA - Confidence won Good F at Price 4.10, Good R at Price 4.60.
+TA - Confidence got a final utility of 0.15831967183300222
+TA - Jumper won Good D at Price 16.57, Good N at Price 17.38, Good B at Price 5.79, Good G at Price 18.54.
+TA - Jumper got a final utility of 4.670943511826437
+patrick won Good M at Price 12.70.
+patrick got a final utility of 7.633169792083912
+TA - MinBidder won Good H at Price 18.92, Good A at Price 16.19.
+TA - MinBidder got a final utility of 2.8133036147612245
+?????? won Good J at Price 35.37, Good P at Price 22.17, Good L at Price 24.63, Good I at Price 30.17, Good Q at Price 27.64, Good K at Price 31.75.
+?????? got a final utility of 23.6216134502001
+TA - Hot'n'Cold (Tier 2) won Good D at Price 16.57, Good C at Price 27.68, Good E at Price 24.88, Good H at Price 18.92, Good O at Price 22.65.
+TA - Hot'n'Cold (Tier 2) got a final utility of -45.22728541359707
+Extended Results: 
+                     Agent 1             Agent 2  ...   A5 Score    A6 Score
+0                    ??????  Mistral7B-Finetune  ...   9.388290    0.000000
+1                    ??????  Mistral7B-Finetune  ...   1.336507 -219.834035
+2                    ??????  Mistral7B-Finetune  ...  16.640493    0.000000
+3                    ??????     TA - Confidence  ...   2.813304    7.633170
+4                    ??????     TA - Confidence  ...   0.000000   -1.944924
+5           TA - Confidence      TA - MinBidder  ...   0.000000    5.566147
+6  TA - Hot'n'Cold (Tier 2)         TA - Jumper  ...  14.319530   -8.033928
+7  TA - Hot'n'Cold (Tier 2)      TA - MinBidder  ...   0.000000  -94.697318
+8            TA - MinBidder         TA - RANDOM  ...   4.821486  -32.343889
+
+[9 rows x 12 columns]
