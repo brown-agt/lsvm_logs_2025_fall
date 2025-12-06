@@ -1,0 +1,113 @@
+
+Auction 1: TA - RANDOM (National) VS keyreg VS mulberry VS TA - Hot'n'Cold (Tier 2) VS TA - Jumper VS TA - MinBidder
+TA - RANDOM got a final utility of 0
+keyreg won Good G at Price 9.03, Good B at Price 18.05.
+keyreg got a final utility of 13.471307085421412
+mulberry won Good K at Price 8.50, Good F at Price 8.50, Good D at Price 8.50.
+mulberry got a final utility of 6.561554410849865
+TA - Hot'n'Cold (Tier 2) won Good Q at Price 8.50, Good N at Price 19.94, Good M at Price 10.21, Good J at Price 19.50, Good H at Price 27.36, Good C at Price 18.59, Good I at Price 19.46, Good P at Price 17.08.
+TA - Hot'n'Cold (Tier 2) got a final utility of 70.65590730141668
+TA - Jumper won Good N at Price 19.94, Good M at Price 10.21, Good O at Price 12.40, Good J at Price 19.50, Good A at Price 8.50.
+TA - Jumper got a final utility of 39.88741791755439
+TA - MinBidder won Good R at Price 8.50, Good E at Price 8.50, Good L at Price 8.50.
+TA - MinBidder got a final utility of 25.40307749215018
+
+Auction 1: patrick (National) VS mulberry VS ?????? VS TA - MinBidder VS TA - Confidence VS TA - Truthful
+patrick won Good E at Price 9.70, Good F at Price 10.80.
+patrick got a final utility of -4.685167966411223
+mulberry won Good D at Price 6.30, Good N at Price 8.70, Good O at Price 10.56, Good I at Price 12.10.
+mulberry got a final utility of 3.3650674006139596
+?????? won Good G at Price 28.13, Good B at Price 19.47, Good M at Price 28.84, Good H at Price 24.44, Good C at Price 26.98, Good A at Price 19.79.
+?????? got a final utility of 46.47944262441254
+TA - MinBidder won Good J at Price 12.10.
+TA - MinBidder got a final utility of 6.8969397045234935
+TA - Confidence got a final utility of 0
+TA - Truthful won Good Q at Price 18.29, Good R at Price 12.10, Good K at Price 11.20, Good L at Price 12.10, Good P at Price 16.90.
+TA - Truthful got a final utility of 102.77564072628566
+
+Auction 1: TA - RANDOM (National) VS keyreg VS mulberry VS TA - Hot'n'Cold (Tier 2) VS patrick(1) VS TA - DecisionTree
+TA - RANDOM won Good E at Price 7.50, Good L at Price 7.50, Good F at Price 8.20.
+TA - RANDOM got a final utility of 0.21725420298453102
+keyreg got a final utility of 0
+mulberry won Good D at Price 20.33, Good N at Price 14.70.
+mulberry got a final utility of 4.811337576452225
+TA - Hot'n'Cold (Tier 2) won Good Q at Price 10.80, Good R at Price 16.96, Good K at Price 10.60, Good O at Price 10.80, Good J at Price 19.79, Good D at Price 20.33, Good I at Price 24.13, Good P at Price 10.80.
+TA - Hot'n'Cold (Tier 2) got a final utility of 115.08171214911805
+patrick(1) got a final utility of 0
+TA - DecisionTree won Good G at Price 23.15, Good B at Price 19.81, Good M at Price 10.80, Good H at Price 21.71, Good C at Price 16.41, Good A at Price 20.54.
+TA - DecisionTree got a final utility of 65.00397398255444
+
+Auction 1: TA - Truthful (National) VS TA - SECRET VS TA - Hot'n'Cold (Tier 2) VS ?????? VS TA - DecisionTree VS keyreg
+TA - Truthful got a final utility of 0
+TA - SECRET won Good Q at Price 18.12, Good O at Price 35.76, Good C at Price 29.02, Good I at Price 31.01, Good P at Price 27.16.
+TA - SECRET got a final utility of -13.255032531713681
+TA - Hot'n'Cold (Tier 2) won Good R at Price 23.08, Good F at Price 26.38, Good E at Price 32.92, Good K at Price 21.20, Good L at Price 31.18, Good D at Price 23.24.
+TA - Hot'n'Cold (Tier 2) got a final utility of -2.477786322877762
+?????? won Good H at Price 48.44, Good A at Price 31.07, Good B at Price 42.35, Good J at Price 35.73.
+?????? got a final utility of -68.74234802040914
+TA - DecisionTree won Good M at Price 16.21, Good N at Price 20.67, Good G at Price 17.73.
+TA - DecisionTree got a final utility of -0.22169425240073082
+keyreg got a final utility of 0
+
+Auction 1: patrick (National) VS TA - Truthful VS mulberry VS ?????? VS TA - SomewhatTruthful VS TA - RANDOM
+patrick won Good A at Price 11.30.
+patrick got a final utility of -2.56866393771665
+TA - Truthful got a final utility of 0
+mulberry won Good Q at Price 11.03, Good R at Price 11.30, Good E at Price 7.90, Good F at Price 11.30, Good L at Price 9.92, Good J at Price 17.70, Good D at Price 15.78.
+mulberry got a final utility of 111.56321762763449
+?????? won Good G at Price 28.88, Good N at Price 24.81, Good M at Price 18.38, Good O at Price 24.78, Good I at Price 25.33, Good P at Price 30.22.
+?????? got a final utility of 69.20358621323402
+TA - SomewhatTruthful won Good K at Price 20.21, Good H at Price 20.15, Good C at Price 7.50.
+TA - SomewhatTruthful got a final utility of -2.072838524912001
+TA - RANDOM won Good B at Price 15.86.
+TA - RANDOM got a final utility of 4.083082146296176
+
+Auction 1: TA - Truthful (National) VS mulberry VS ?????? VS veriTNT VS TA - SomewhatTruthful VS patrick(1)
+TA - Truthful won Good Q at Price 5.70.
+TA - Truthful got a final utility of 0.09207918581149954
+mulberry won Good A at Price 12.06.
+mulberry got a final utility of 0.9815558769792609
+?????? won Good N at Price 23.69, Good M at Price 22.21, Good O at Price 18.99, Good J at Price 19.43, Good C at Price 21.16, Good I at Price 25.23.
+?????? got a final utility of 34.52940721303426
+veriTNT won Good R at Price 14.77, Good F at Price 12.61, Good E at Price 14.95, Good K at Price 18.02, Good L at Price 17.45, Good D at Price 13.67.
+veriTNT got a final utility of 59.798588239691526
+TA - SomewhatTruthful won Good H at Price 17.79, Good P at Price 14.41, Good G at Price 21.59, Good B at Price 19.42.
+TA - SomewhatTruthful got a final utility of 22.065394443708158
+patrick(1) got a final utility of 0
+
+Auction 1: TA - RANDOM (National) VS TA - SECRET VS TA - Hot'n'Cold (Tier 2) VS TA - DecisionTree VS TA - Jumper VS veriTNT
+TA - RANDOM won Good R at Price 4.00, Good E at Price 4.00, Good F at Price 4.00, Good L at Price 4.00, Good D at Price 4.00.
+TA - RANDOM got a final utility of 11.551610294573322
+TA - SECRET won Good Q at Price 5.72, Good N at Price 28.66, Good O at Price 16.10, Good J at Price 13.56, Good I at Price 18.28, Good P at Price 19.53.
+TA - SECRET got a final utility of 118.65062903999453
+TA - Hot'n'Cold (Tier 2) won Good G at Price 27.62, Good B at Price 12.31, Good M at Price 20.34, Good H at Price 31.85, Good C at Price 22.45.
+TA - Hot'n'Cold (Tier 2) got a final utility of 35.33034081839915
+TA - DecisionTree won Good K at Price 3.90, Good A at Price 11.91.
+TA - DecisionTree got a final utility of 3.6286872548634044
+TA - Jumper got a final utility of 0
+veriTNT won Good M at Price 20.34, Good B at Price 12.31.
+veriTNT got a final utility of -0.7994061322509296
+
+Auction 1: TA - RANDOM (National) VS patrick VS TA - Truthful VS TA - SECRET VS TA - MinBidder VS TA - Hot'n'Cold (Tier 2)
+TA - RANDOM won Good A at Price 4.40.
+TA - RANDOM got a final utility of 0.05112488546897076
+patrick won Good Q at Price 25.20, Good R at Price 35.70, Good E at Price 36.26, Good F at Price 37.79, Good K at Price 32.56, Good L at Price 29.67, Good J at Price 25.20.
+patrick got a final utility of -16.744008379554884
+TA - Truthful got a final utility of 0
+TA - SECRET won Good D at Price 41.93, Good C at Price 25.10.
+TA - SECRET got a final utility of -28.394681383546086
+TA - MinBidder got a final utility of 0
+TA - Hot'n'Cold (Tier 2) won Good G at Price 22.90, Good B at Price 14.00, Good N at Price 20.90, Good M at Price 18.30, Good O at Price 33.09, Good H at Price 30.72, Good I at Price 41.91, Good P at Price 14.22.
+TA - Hot'n'Cold (Tier 2) got a final utility of 22.637143742494487
+Extended Results: 
+                     Agent 1                   Agent 2  ...    A5 Score   A6 Score
+0                    ??????           TA - Confidence  ...    3.365067  -4.685168
+1                    ??????         TA - DecisionTree  ...    0.000000   0.000000
+2                    ??????               TA - RANDOM  ...  111.563218  -2.568664
+3                    ??????     TA - SomewhatTruthful  ...    0.000000  59.798588
+4         TA - DecisionTree  TA - Hot'n'Cold (Tier 2)  ...  118.650629  -0.799406
+5         TA - DecisionTree  TA - Hot'n'Cold (Tier 2)  ...    4.811338   0.000000
+6  TA - Hot'n'Cold (Tier 2)               TA - Jumper  ...   13.471307   6.561554
+7  TA - Hot'n'Cold (Tier 2)            TA - MinBidder  ...    0.000000 -16.744008
+
+[8 rows x 12 columns]
