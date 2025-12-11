@@ -1,0 +1,131 @@
+
+Auction 1: TA - Truthful (National) VS TA - DecisionTree VS TA - SECRET VS ?????? VS TA - Hot'n'Cold (Tier 2) VS TA - Confidence
+TA - Truthful got a final utility of 0
+TA - DecisionTree won Good I at Price 22.85, Good B at Price 14.24, Good G at Price 6.73, Good O at Price 14.57, Good N at Price 6.64, Good A at Price 10.02, Good H at Price 15.25, Good C at Price 30.92, Good M at Price 7.49.
+TA - DecisionTree got a final utility of 76.37702764721175
+TA - SECRET got a final utility of 0
+?????? won Good F at Price 24.35, Good P at Price 21.91, Good Q at Price 14.26, Good R at Price 9.02, Good L at Price 15.37.
+?????? got a final utility of 38.591071763919786
+TA - Hot'n'Cold (Tier 2) won Good J at Price 21.24, Good E at Price 20.79, Good K at Price 22.89, Good D at Price 29.65.
+TA - Hot'n'Cold (Tier 2) got a final utility of 9.990867066465142
+TA - Confidence got a final utility of 0
+
+Auction 1: keyreg (National) VS TA - Truthful VS veriTNT VS TA - MinBidder VS 256-82-5206(1) VS 256-82-5206
+keyreg timed out after 1 seconds.
+keyreg timed out after 1 seconds.
+keyreg timed out after 1 seconds.
+Exception in keyreg: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat1 in method wrapper_CUDA_addmm)
+Traceback (most recent call last):
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/agt_server/local_games/base.py", line 35, in target_wrapper
+    ret = func()
+          ^^^^^^
+  File "/cs/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lsvm2026/2281566/submission/my_agent.py", line 147, in get_bids
+    bids =  self.national_bidder_strategy()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cs/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lsvm2026/2281566/submission/my_agent.py", line 129, in national_bidder_strategy
+    action = self.network.select_action(state, training=self.training)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cs/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lsvm2026/2281566/submission/models.py", line 188, in select_action
+    q_values = self.policy_net(state)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/cs/courses/cs1440/ta/agt-server-remastered/src/agt_server/agents/test_agents/lsvm2026/2281566/submission/models.py", line 63, in forward
+    encoding = self.encoder(state)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/container.py", line 250, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/ifs/CS/courses/cs1440/ta/agt-server-remastered/.venv2/lib/python3.11/site-packages/torch/nn/modules/linear.py", line 125, in forward
+    return F.linear(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat1 in method wrapper_CUDA_addmm)
+
+keyreg won Good R at Price 4.40.
+keyreg got a final utility of 0.09586133089866955
+TA - Truthful won Good E at Price 11.27, Good L at Price 12.50, Good K at Price 10.74.
+TA - Truthful got a final utility of 28.48614422121569
+veriTNT won Good B at Price 7.35, Good G at Price 4.10, Good A at Price 3.65, Good N at Price 3.11, Good H at Price 11.27, Good C at Price 22.05, Good M at Price 3.82.
+veriTNT got a final utility of 83.05541214702073
+TA - MinBidder won Good O at Price 13.20, Good P at Price 8.05, Good I at Price 10.94.
+TA - MinBidder got a final utility of 27.65063347027406
+256-82-5206(1) won Good J at Price 12.97, Good Q at Price 15.55.
+256-82-5206(1) got a final utility of -3.422187720376577
+256-82-5206 won Good F at Price 15.77, Good D at Price 15.02.
+256-82-5206 got a final utility of 4.3483528497172905
+
+Auction 1: TA - Truthful (National) VS TA - RANDOM VS TA - DecisionTree VS 256-82-5206(1) VS mulberry VS TA - MinBidder
+TA - Truthful got a final utility of 0
+TA - RANDOM won Good J at Price 17.66.
+TA - RANDOM got a final utility of 1.3678212100991125
+TA - DecisionTree won Good K at Price 33.69, Good F at Price 23.74, Good E at Price 28.68, Good R at Price 23.11, Good L at Price 16.94.
+TA - DecisionTree got a final utility of 26.68908186167569
+256-82-5206(1) won Good I at Price 18.50, Good B at Price 18.50, Good D at Price 25.78, Good G at Price 18.50, Good A at Price 18.50, Good H at Price 18.50, Good C at Price 22.45.
+256-82-5206(1) got a final utility of 98.67637644217945
+mulberry won Good O at Price 6.40, Good N at Price 13.20, Good Q at Price 14.93, Good M at Price 12.70.
+mulberry got a final utility of -40.411163299159796
+TA - MinBidder won Good P at Price 18.69.
+TA - MinBidder got a final utility of 1.4284384446707534
+
+Auction 1: TA - Confidence (National) VS TA - MinBidder VS TA - Jumper VS TA - Hot'n'Cold (Tier 2) VS 256-82-5206 VS mulberry
+TA - Confidence won Good N at Price 7.30.
+TA - Confidence got a final utility of 1.139924021614478
+TA - MinBidder won Good G at Price 11.40.
+TA - MinBidder got a final utility of 9.025116035232033
+TA - Jumper won Good M at Price 15.05, Good C at Price 12.44.
+TA - Jumper got a final utility of 2.7055059299809514
+TA - Hot'n'Cold (Tier 2) won Good I at Price 9.62, Good B at Price 19.83, Good A at Price 18.29, Good O at Price 22.06, Good D at Price 14.69, Good E at Price 20.19, Good H at Price 20.12, Good C at Price 12.44, Good J at Price 24.37.
+TA - Hot'n'Cold (Tier 2) got a final utility of 51.12959530079212
+256-82-5206 won Good P at Price 7.20, Good O at Price 22.06, Good Q at Price 10.37, Good R at Price 7.20, Good L at Price 19.05.
+256-82-5206 got a final utility of 82.88425308617721
+mulberry won Good K at Price 14.78, Good F at Price 14.64, Good D at Price 14.69.
+mulberry got a final utility of 11.995390146385041
+
+Auction 1: TA - Truthful (National) VS veriTNT VS TA - SECRET VS TA - Hot'n'Cold (Tier 2) VS 256-82-5206 VS TA - DecisionTree
+TA - Truthful won Good R at Price 3.04, Good F at Price 5.74.
+TA - Truthful got a final utility of 0.12027642061912935
+veriTNT got a final utility of 0
+TA - SECRET got a final utility of 0
+TA - Hot'n'Cold (Tier 2) won Good I at Price 29.46, Good B at Price 29.33, Good A at Price 43.37, Good O at Price 30.97, Good N at Price 29.55, Good G at Price 22.62, Good H at Price 30.79, Good C at Price 27.40, Good J at Price 26.81, Good M at Price 19.06.
+TA - Hot'n'Cold (Tier 2) got a final utility of -61.811104408548516
+256-82-5206 won Good K at Price 24.86, Good I at Price 29.46, Good P at Price 22.47, Good D at Price 21.37, Good O at Price 30.97, Good E at Price 19.50, Good Q at Price 20.17, Good H at Price 30.79, Good J at Price 26.81, Good L at Price 17.87.
+256-82-5206 got a final utility of 102.77982276835337
+TA - DecisionTree won Good N at Price 29.55, Good G at Price 22.62.
+TA - DecisionTree got a final utility of -24.45630322978686
+
+Auction 1: TA - Confidence (National) VS TA - Truthful VS TA - RANDOM VS TA - Jumper VS TA - SECRET VS 256-82-5206(1)
+TA - Confidence won Good I at Price 14.05, Good B at Price 15.53, Good D at Price 14.40, Good A at Price 15.95, Good E at Price 14.95, Good G at Price 11.92, Good N at Price 13.08, Good O at Price 11.55, Good H at Price 19.36, Good J at Price 11.45, Good M at Price 5.10.
+TA - Confidence got a final utility of 49.83509568207228
+TA - Truthful got a final utility of 0
+TA - RANDOM won Good C at Price 12.39.
+TA - RANDOM got a final utility of 0.9472588370353332
+TA - Jumper got a final utility of 0
+TA - SECRET got a final utility of 0
+256-82-5206(1) won Good K at Price 16.51, Good F at Price 15.82, Good P at Price 16.90, Good R at Price 8.50, Good Q at Price 16.14, Good L at Price 16.24.
+256-82-5206(1) got a final utility of 104.846694873787
+Extended Results: 
+           Agent 1            Agent 2  ...  A5 Score   A6 Score
+0     256-82-5206     256-82-5206(1)  ...  0.095861  83.055412
+1     256-82-5206    TA - Confidence  ...  9.025116  11.995390
+2     256-82-5206  TA - DecisionTree  ...  0.120276   0.000000
+3  256-82-5206(1)    TA - Confidence  ...  0.000000   0.000000
+4  256-82-5206(1)  TA - DecisionTree  ...  0.000000 -40.411163
+5          ??????    TA - Confidence  ...  0.000000   0.000000
+
+[6 rows x 12 columns]
